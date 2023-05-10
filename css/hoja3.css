@@ -1,0 +1,26 @@
+p{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+#p1{
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+}
+#p2{
+    background-color: lemonchiffon;
+    padding: 10px;
+    border-radius: 10px;
+}
+#p3{
+    background-color: lightskyblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+#p4{
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 10px;
+}
